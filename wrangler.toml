@@ -1,4 +1,4 @@
-name = "boltdiy"
+name = "boltdiy1"
 compatibility_flags = ["nodejs_compat"]
 compatibility_date = "2025-03-28"
 main = "./build/server/index.js"
