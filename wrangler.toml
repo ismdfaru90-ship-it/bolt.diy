@@ -1,9 +1,0 @@
-{
-	name = "boltdiy4"
-compatibility_date = "2024-02-09"
-compatibility_flags = ["nodejs_compat"]
-pages_build_output_dir = "./build/client"
-send_metrics = false
-[observability]
-enabled = true
-}
