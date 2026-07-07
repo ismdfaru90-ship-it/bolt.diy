@@ -1,15 +1,11 @@
 {
-	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "boltdiy3",
-	"main": "./src/worker/index.ts",
+
+	"name": "boltdiy4",
 	"compatibility_date": "2024-02-09",
 	"compatibility_flags": ["nodejs_compat"],
-	"observability": {
-		"enabled": true
-	},
-	"upload_source_maps": true,
-	"assets": {
-		"directory": "./dist/client",
-	
-	}
+	"observability": {"enabled": true	},
+	pages_build_output_dir = "./build/client",
+send_metrics = false
 }
+
+
