@@ -3,4 +3,3 @@ compatibility_flags = ["nodejs_compat"]
 compatibility_date = "2025-03-28"
 main = "./build/server/index.js"
 assets = { directory = "./build/client" }
-no_bundle = true
