@@ -1,6 +1,9 @@
 {
   "name": "boltdiy1",
-  "compatibility_date": "2024-09-02",
+  "main": "build/server/index.js",
+  "compatibility_date": "2026-07-07",
   "compatibility_flags": ["nodejs_compat"],
-  "pages_build_output_dir": "build/client"
+  "assets": {
+    "directory": "build/client"
+  }
 }
